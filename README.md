@@ -1,2 +1,2 @@
-# rl_specialization_alberta_course
-Reinforcement Learning Specialization by UofA
+# Reinforcement Learning Specialization by UofA
+- Controling Lunar Lander Problem with semi-gradient TD algorithm and neural network as the function approximator.
